@@ -1,6 +1,6 @@
 ### Olá eu sou o Lucas Leite 👋
 
-- 🔭 Hoje eu busco oportunidade de trabalhar como desenvolvedor junior em back-end
+- 🔭 Hoje eu busco aprender mais sobre a carreira de back-end
 - 🌱 JavaScript e outras linguagens
 - 😄 Ele/Dele
 
